@@ -1,0 +1,59 @@
+
+{
+  "cars": [
+    {
+      "make": "Hyundai",
+      "model": "Accent",
+      "year": "2014",
+      "price": "11999",
+      "color": "DarkSlateGray",
+      "mileage": "35487",
+      "purchased": true
+    },
+    {
+      "make": "Ford",
+      "model": "Focus",
+      "year": "2014",
+      "price": "10999",
+      "color": "Black",
+      "mileage": "38655",
+      "purchased": false
+    },
+    {
+      "make": "Kia",
+      "model": "Soul",
+      "year": "2013",
+      "price": "9999",
+      "color": "White",
+      "mileage": "61966",
+      "purchased": true
+    },
+    {
+      "make": "Toyota",
+      "model": "Yaris",
+      "year": "2014",
+      "price": "8999",
+      "color": "Green",
+      "mileage": "51645",
+      "purchased": false
+    },
+    {
+      "make": "Ford",
+      "model": "Fusion",
+      "year": "2012",
+      "price": "7999",
+      "color": "Crimson",
+      "mileage": "75678",
+      "purchased": true
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "Galant",
+      "year": "2011",
+      "price": "8990",
+      "color": "Cornsilk",
+      "mileage": "",
+      "purchased": false
+    }
+  ]
+}
