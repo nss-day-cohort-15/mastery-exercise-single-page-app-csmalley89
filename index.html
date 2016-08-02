@@ -12,17 +12,21 @@
     <h1>Inventory <small>Smalley's Car Lot</small></h1>
       <form class="navbar-form navbar-left" role="search">
       <div class="form-group">
-        <input type="text" class="form-control" placeholder="Search">
+        <input type="text" class="form-control" id="userInput" placeholder="Search">
       </div>
-      <button type="button" class="btn btn-default">Search</button>
+      <button type="button" class="btn btn-default" id="searchButton">Search</button>
     </form>
   </div>
+  <br><br>
 <!-- CAR CONTENT -->
-  <div id="carInventory" class="container"></div>
+  <div id="car-inventory" class="container"></div>
 
-<script src="quiz.js"></script>
-<script src="carLot.js"></script>
-<script src="loadInventory.js"></script>
 
+<script src="bower_components/jquery/dist/jquery.min.js"></script>
+<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="carLot.js"></script>
+<script type="text/javascript" src="loadInventory.js"></script>
+<script type="text/javascript" src="quiz.js"></script>
 </body>
 </html>
