@@ -15,8 +15,9 @@ function populatePage (cars) {
 
       carInventory += `<div class="col-md-4 unselected" id="${carCard.make}-${carCard.model}" style="border-color:${carCard.color}">`;
       carInventory += `<h3>${carCard.year} ${carCard.make} ${carCard.model}</h3>`;
+      carInventory += `<p>${carCard.description}</p>`;
       carInventory += `<h4>Mileage: ${carCard.mileage}</h4>`;
-      carInventory += `<h4>Color: ${carCard.color}</h4>`
+      carInventory += `<h4>Color: ${carCard.color}</h4>`;
       carInventory += `<h4>Price: $${carCard.price}</h4>`;
           if (!carCard.purchased) {
               carInventory += `<h4>Availible</h4>`;

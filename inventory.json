@@ -7,7 +7,8 @@
       "price": "11999",
       "color": "DarkSlateGray",
       "mileage": "35487",
-      "purchased": true
+      "purchased": false,
+      "description": "Turbo Charged V6, Cold AC, Leather seats, XM Radio."
     },
     {
       "make": "Ford",
@@ -16,7 +17,8 @@
       "price": "10999",
       "color": "Black",
       "mileage": "38655",
-      "purchased": false
+      "purchased": false,
+      "description": "This beauty gets 35+MPG! Cloth seats, AC, CD Player."
     },
     {
       "make": "Kia",
@@ -25,7 +27,8 @@
       "price": "9999",
       "color": "White",
       "mileage": "61966",
-      "purchased": true
+      "purchased": true,
+      "description": "Navigation, 8 speaker BOSE surround sound, power everything."
     },
     {
       "make": "Toyota",
@@ -34,7 +37,8 @@
       "price": "8999",
       "color": "Green",
       "mileage": "51645",
-      "purchased": false
+      "purchased": false,
+      "description": "Leather seats, Sunroof, Remote Start."
     },
     {
       "make": "Ford",
@@ -43,7 +47,8 @@
       "price": "7999",
       "color": "Crimson",
       "mileage": "75678",
-      "purchased": true
+      "purchased": true,
+      "description": "Ford 4.2L EcoBoost engine, navigation, keyless entry, AC, heated and cooled Leather Seats."
     },
     {
       "make": "Mitsubishi",
@@ -51,8 +56,9 @@
       "year": "2011",
       "price": "8990",
       "color": "Cornsilk",
-      "mileage": "",
-      "purchased": false
+      "mileage": "65234",
+      "purchased": false,
+      "description": "Great car for teenagers, has nothing to distract them and cold AC."
     }
   ]
 }
