@@ -7,20 +7,22 @@
   <link rel="stylesheet" type="text/css" href="quiz.css">
 </head>
 <body>
+<div class = "container">
 <!-- HEADER/NAV BAR -->
   <div class="page-header">
     <h1>Inventory <small>Smalley's Car Lot</small></h1>
       <form class="navbar-form navbar-left" role="search">
       <div class="form-group">
-        <input type="text" class="form-control" id="userInput" placeholder="Search">
+        <input type="text" class="form-control" id="userInput" placeholder="Description">
       </div>
-      <button type="button" class="btn btn-default" id="searchButton">Search</button>
+      <button type="button" class="btn btn-default" id="saveButton">Update</button>
     </form>
   </div>
   <br><br>
 <!-- CAR CONTENT -->
-  <div id="car-inventory" class="container"></div>
+  <div id="car-inventory"></div>
 
+</div>
 
 <script src="bower_components/jquery/dist/jquery.min.js"></script>
 <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>

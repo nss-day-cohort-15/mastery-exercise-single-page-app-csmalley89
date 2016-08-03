@@ -25,7 +25,7 @@
       "model": "Soul",
       "year": "2013",
       "price": "9999",
-      "color": "White",
+      "color": "Orange",
       "mileage": "61966",
       "purchased": true,
       "description": "Navigation, 8 speaker BOSE surround sound, power everything."
@@ -55,7 +55,7 @@
       "model": "Galant",
       "year": "2011",
       "price": "8990",
-      "color": "Cornsilk",
+      "color": "DarkBlue",
       "mileage": "65234",
       "purchased": false,
       "description": "Great car for teenagers, has nothing to distract them and cold AC."
